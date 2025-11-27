@@ -1,0 +1,12 @@
+# Declare variables
+student_name = "Aj Latina"
+address = "Tanauan City"
+year = "3rd year"
+course = "Computer Engineering"
+
+# Print student information
+print("Student Information:")
+print("Name:", student_name)
+print("Address:", address)
+print("Year:", year)
+print("Course:", course)
